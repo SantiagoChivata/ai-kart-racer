@@ -26,8 +26,10 @@
 - Física del kart en `_physics_process`, no en `_process`.
 
 ## Git
+- Rama principal: `master`.
 - Un cambio = una rama + PR pequeño. Commits estilo Conventional Commits (`feat:`, `fix:`, `docs:`, `chore:`).
 - Nunca commitear secretos, tokens ni rutas personales.
 
 ## Idioma
+- Responde siempre en español; términos técnicos en inglés.
 - Documentación en español; términos técnicos en inglés.

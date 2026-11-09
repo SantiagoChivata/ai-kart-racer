@@ -8,7 +8,7 @@
 1. Propiedad intelectual: ¿algún nombre, asset o referencia de terceros?
 2. Sintaxis Godot 4 (no Godot 3) y tipado estático.
 3. Física en `_physics_process`; nada costoso por frame sin motivo.
-4. Alcance: ¿se sale de v0.1 o contradice el GDD?
+4. Alcance: compara contra el pedido original. Todo lo no pedido es 🟡 como mínimo, aunque sea razonable; si contradice el GDD es 🔴.
 5. Zonas protegidas tocadas (`.godot/`, `*.import`, `*.uid`, `project.godot`).
 
 ## Formato de respuesta
